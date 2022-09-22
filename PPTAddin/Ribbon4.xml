@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI onLoad="Ribbon_Load" xmlns="http://schemas.microsoft.com/office/2006/01/customui">
+    <ribbon>
+        <tabs>
+            <tab idMso="TabAddIns" label="TabConnection">
+                <group id="group1" label="Point">
+                    <dialogBoxLauncher>
+                        <button id="group1__btn" />
+                    </dialogBoxLauncher>
+                </group>
+                <group id="group2" label="Line">
+                    <dialogBoxLauncher>
+                        <button id="group2__btn" />
+                    </dialogBoxLauncher>
+                </group>
+            </tab>
+        </tabs>
+    </ribbon>
+</customUI>

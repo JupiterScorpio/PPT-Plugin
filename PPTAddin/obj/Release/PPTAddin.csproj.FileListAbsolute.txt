@@ -1,0 +1,15 @@
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\bin\Release\PPTAddin.dll
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\bin\Release\PPTAddin.pdb
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\bin\Release\PPTAddin.dll.manifest
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\bin\Release\PPTAddin.vsto
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\obj\Release\PPTAddin.csproj.AssemblyReference.cache
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\obj\Release\PPTAddin.Properties.Resources.resources
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\obj\Release\PPTAddin.csproj.GenerateResource.cache
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\obj\Release\PPTAddin.csproj.CoreCompileInputs.cache
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\obj\Release\PPTAddin.csproj.CopyComplete
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\obj\Release\PPTAddin.dll
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\obj\Release\PPTAddin.pdb
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\bin\Release\Aspose.Slides.dll
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\bin\Release\Aspose.Slides.xml
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\obj\Release\PPTAddin.point.resources

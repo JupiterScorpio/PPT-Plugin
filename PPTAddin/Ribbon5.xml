@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI onLoad="Ribbon_Load" xmlns="http://schemas.microsoft.com/office/2006/01/customui">
+    <ribbon>
+        <tabs>
+            <tab idMso="TabAddIns" label="TabConnection">
+                <group id="group1" label="Point and Connector">
+                    <labelControl id="label1" label="State:" />
+                    <labelControl id="lblX" label="X:" />
+                    <labelControl id="lblY" label="Y:" />
+                    <labelControl id="lblState" label="None" />
+                    <labelControl id="xpos" label="0" />
+                    <labelControl id="ypos" label="0" />
+                    <button id="btn_open" onAction="btn_open_Click" label="Open" size="large" />
+                    <button id="button1" onAction="button1_Click" label="Point" size="large" />
+                    <button id="button2" onAction="button2_Click" label="Point Connector" size="large" />
+                    <dialogBoxLauncher>
+                        <button id="group1__btn" />
+                    </dialogBoxLauncher>
+                </group>
+				<group id="group2" label="In-Build">
+					
+				</group>
+            </tab>
+        </tabs>
+    </ribbon>
+</customUI>

@@ -1,0 +1,160 @@
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\PPTAddin.dll
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\PPTAddin.pdb
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\PPTAddin.dll.manifest
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\PPTAddin.vsto
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.Properties.Resources.resources
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.csproj.GenerateResource.cache
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.csproj.CoreCompileInputs.cache
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.csproj.CopyComplete
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.dll
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.pdb
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\Aspose.Slides.dll
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\Aspose.Slides.xml
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.point.resources
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.csproj.AssemblyReference.cache
+D:\All tasks\App task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\stringrep.dll
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\PPTAddin.dll
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\PPTAddin.pdb
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\PPTAddin.dll.manifest
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\PPTAddin.vsto
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\Aspose.Slides.dll
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\stringrep.dll
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\Aspose.Slides.xml
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.point.resources
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.Properties.Resources.resources
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.csproj.GenerateResource.cache
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.csproj.CoreCompileInputs.cache
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.csproj.CopyComplete
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.dll
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.pdb
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.ShortkeySel.resources
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.GridLineForm.resources
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.CombinationalImport.resources
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.ExportSetting.resources
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\Interop.ADOX.dll
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.csproj.ResolveComReference.cache
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\Interop.DAO.dll
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\Interop.MSDAOSP.dll
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\Interop.OLEDBError.dll
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\Interop.stdole.dll
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.Record.resources
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\desEnDec.dll
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.LicenseDlg.resources
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\Gma.System.MouseKeyHook.dll
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\PPTAddin.dll
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\PPTAddin.pdb
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\PPTAddin.dll.manifest
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\PPTAddin.vsto
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\Aspose.Slides.dll
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\desEnDec.dll
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\Gma.System.MouseKeyHook.dll
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\stringrep.dll
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\bin\Debug\Aspose.Slides.xml
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.csproj.AssemblyReference.cache
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\Interop.ADOX.dll
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\Interop.DAO.dll
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\Interop.MSDAOSP.dll
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\Interop.OLEDBError.dll
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\Interop.stdole.dll
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.csproj.ResolveComReference.cache
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.CombinationalImport.resources
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.ExportSetting.resources
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.GridLineForm.resources
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.LicenseDlg.resources
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.point.resources
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.Properties.Resources.resources
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.ShortkeySel.resources
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.Record.resources
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.csproj.GenerateResource.cache
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.csproj.CoreCompileInputs.cache
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.csproj.CopyComplete
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.dll
+E:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.pdb
+D:\All_tasks\App_task\C#\VSTO\PPTAddin\PPTAddin\obj\Debug\PPTAddin.csproj.AssemblyReference.cache
+D:\workPlugin\PPTAddin\PPTAddin\bin\Debug\PPTAddin.dll
+D:\workPlugin\PPTAddin\PPTAddin\bin\Debug\PPTAddin.pdb
+D:\workPlugin\PPTAddin\PPTAddin\bin\Debug\PPTAddin.dll.manifest
+D:\workPlugin\PPTAddin\PPTAddin\bin\Debug\PPTAddin.vsto
+D:\workPlugin\PPTAddin\PPTAddin\bin\Debug\Aspose.Slides.dll
+D:\workPlugin\PPTAddin\PPTAddin\bin\Debug\desEnDec.dll
+D:\workPlugin\PPTAddin\PPTAddin\bin\Debug\Gma.System.MouseKeyHook.dll
+D:\workPlugin\PPTAddin\PPTAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\workPlugin\PPTAddin\PPTAddin\bin\Debug\Aspose.Slides.xml
+D:\workPlugin\PPTAddin\PPTAddin\obj\Debug\PPTAddin.csprojAssemblyReference.cache
+D:\workPlugin\PPTAddin\PPTAddin\obj\Debug\Interop.ADOX.dll
+D:\workPlugin\PPTAddin\PPTAddin\obj\Debug\Interop.DAO.dll
+D:\workPlugin\PPTAddin\PPTAddin\obj\Debug\Interop.MSDAOSP.dll
+D:\workPlugin\PPTAddin\PPTAddin\obj\Debug\Interop.OLEDBError.dll
+D:\workPlugin\PPTAddin\PPTAddin\obj\Debug\Interop.stdole.dll
+D:\workPlugin\PPTAddin\PPTAddin\obj\Debug\PPTAddin.csproj.ResolveComReference.cache
+D:\workPlugin\PPTAddin\PPTAddin\obj\Debug\PPTAddin.CombinationalImport.resources
+D:\workPlugin\PPTAddin\PPTAddin\obj\Debug\PPTAddin.ExportSetting.resources
+D:\workPlugin\PPTAddin\PPTAddin\obj\Debug\PPTAddin.GridLineForm.resources
+D:\workPlugin\PPTAddin\PPTAddin\obj\Debug\PPTAddin.LicenseDlg.resources
+D:\workPlugin\PPTAddin\PPTAddin\obj\Debug\PPTAddin.point.resources
+D:\workPlugin\PPTAddin\PPTAddin\obj\Debug\PPTAddin.Properties.Resources.resources
+D:\workPlugin\PPTAddin\PPTAddin\obj\Debug\PPTAddin.ShortkeySel.resources
+D:\workPlugin\PPTAddin\PPTAddin\obj\Debug\PPTAddin.Record.resources
+D:\workPlugin\PPTAddin\PPTAddin\obj\Debug\PPTAddin.csproj.GenerateResource.cache
+D:\workPlugin\PPTAddin\PPTAddin\obj\Debug\PPTAddin.csproj.CopyComplete
+D:\workPlugin\PPTAddin\PPTAddin\obj\Debug\PPTAddin.dll
+D:\workPlugin\PPTAddin\PPTAddin\obj\Debug\PPTAddin.pdb
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\bin\Debug\PPTAddin.dll
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\bin\Debug\PPTAddin.pdb
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\bin\Debug\PPTAddin.dll.manifest
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\bin\Debug\PPTAddin.vsto
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\bin\Debug\Aspose.Slides.dll
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\bin\Debug\desEnDec.dll
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\bin\Debug\Gma.System.MouseKeyHook.dll
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\bin\Debug\Aspose.Slides.xml
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\Interop.ADOX.dll
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\Interop.DAO.dll
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\Interop.MSDAOSP.dll
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\Interop.OLEDBError.dll
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\Interop.stdole.dll
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.csproj.ResolveComReference.cache
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.CombinationalImport.resources
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.ExportSetting.resources
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.GridLineForm.resources
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.LicenseDlg.resources
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.point.resources
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.Properties.Resources.resources
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.ShortkeySel.resources
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.Record.resources
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.csproj.GenerateResource.cache
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.csproj.CoreCompileInputs.cache
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.csproj.CopyComplete
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.dll
+D:\All_tasks\App_task\C#\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.pdb
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\bin\Debug\PPTAddin.dll
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\bin\Debug\PPTAddin.pdb
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\bin\Debug\PPTAddin.dll.manifest
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\bin\Debug\PPTAddin.vsto
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\bin\Debug\Aspose.Slides.dll
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\bin\Debug\desEnDec.dll
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\bin\Debug\Gma.System.MouseKeyHook.dll
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\bin\Debug\Aspose.Slides.xml
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\Interop.ADOX.dll
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\Interop.DAO.dll
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\Interop.MSDAOSP.dll
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\Interop.OLEDBError.dll
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\Interop.stdole.dll
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.csproj.ResolveComReference.cache
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.CombinationalImport.resources
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.ExportSetting.resources
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.GridLineForm.resources
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.LicenseDlg.resources
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.point.resources
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.Properties.Resources.resources
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.ShortkeySel.resources
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.Record.resources
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.csproj.GenerateResource.cache
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.csproj.CoreCompileInputs.cache
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.csproj.CopyComplete
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.dll
+D:\All_tasks\App_task\CSharp\VSTO\MrJo\PPTAddin\PPTAddin\obj\Debug\PPTAddin.pdb
